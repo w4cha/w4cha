@@ -23,5 +23,5 @@ a explorar nuevos lenguajes si es requerido para lo que quiera lograr.
 
 Aqui encontraras principalmente proyectos basados enteramente en python o en algun framework web de python como lo son **flask y django**.
 
-Si quieres contactarme no dudoes escribrirme a mi [correo](folch.lucas@gmail.com), estare atento a todas tus dudas o alcances, sin más espero que 
+Si quieres contactarme no dudes escribrirme a mi [correo](folch.lucas@gmail.com), estare atento a todas tus dudas o alcances, sin más espero que 
 te guste lo que ves.
